@@ -357,4 +357,4 @@ def pull():
             continue
     return datas
 
-client.run("NjkyMjIxODY3MjUxMDczMDI1.XnrX8g.yNqNdBOkn_fH85UWWW6GQnV64kQ")
+client.run(#BOT_TOKEN_HERE)
